@@ -1,4 +1,4 @@
 # Git-demo
 This is my first Repository
 <br>
-Author - vidya.bhurre
+Author - Bhurre VIDYA
